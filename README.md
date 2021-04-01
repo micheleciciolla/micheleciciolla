@@ -1,2 +1,2 @@
-- 🔭 I’m currently working on "Automatic Calibration of Cameras in Industrial Robotics Workstations" @ ICAP GROUP Company, Latina (RM)
+- 🔭 I’m currently working on my Master Thesis: "Automatic Calibration of Cameras in Industrial Robotics Workstations" @ ICAP GROUP Company, Latina (RM)
 - 📫 How to reach me: Linkedin or Mail
