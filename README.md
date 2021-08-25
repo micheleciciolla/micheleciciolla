@@ -6,4 +6,4 @@
 
 - 📫 How to reach me: https://micheleciciolla.github.io/
 
-- 🎃 My effort in learning algorithms: https://leetcode.com/micheleciciolla/
+- 🎃 My effort in learning new algorithms: https://leetcode.com/micheleciciolla/
