@@ -1,4 +1,4 @@
-- 📕 Master of Science in [Artificial Intelligence and Robotics Engineering at Università La Sapienza, Roma](https://corsidilaurea.uniroma1.it/en/corso/2021/30431/home)
+- 📕 University degree : Master of Science in [Artificial Intelligence and Robotics Engineering at Università La Sapienza, Roma](https://corsidilaurea.uniroma1.it/en/corso/2021/30431/home)
 
 - 💼 Current job                          : Robotics Software Engineer at [Pixies UrbanLab](https://www.pixiesurbanlab.com/)
 
