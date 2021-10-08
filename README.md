@@ -1,9 +1,11 @@
-- 📕 Master of Science in Artificial Intelligence and Robotics Engineering @ Università La Sapienza, Roma
+- 📕 Master of Science in [Artificial Intelligence and Robotics Engineering at Università La Sapienza, Roma](https://corsidilaurea.uniroma1.it/en/corso/2021/30431/home)
 
-- ✏️ Currently studying: C++ and ROS @https://www.theconstructsim.com/
+- 💼 Current job                          : Robotics Software Engineer at [Pixies UrbanLab](https://www.pixiesurbanlab.com/)
 
-- 👔 Interested working in: Robotics R&D, Mobile Robotics, Artificial intelligence, Space/Defence
+- ✏️ Currently studying                   : C++ and ROS https://www.theconstructsim.com/
 
-- 📫 How to reach me: https://micheleciciolla.github.io/
+- 👔 Interested working in                : Robotics R&D, Mobile Robotics, Artificial intelligence, Space/Defence
 
-- 🎃 My effort in learning new algorithms: https://leetcode.com/micheleciciolla/
+- 📫 How to reach me                      : [my website](https://micheleciciolla.github.io/)
+
+- 🎃 My effort in learning new algorithms : [leetcode] (https://leetcode.com/micheleciciolla/)
