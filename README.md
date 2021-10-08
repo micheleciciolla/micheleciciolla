@@ -8,4 +8,4 @@
 
 - 📫 How to reach me                      : [my website](https://micheleciciolla.github.io/)
 
-- 🎃 My effort in learning new algorithms : [leetcode] (https://leetcode.com/micheleciciolla/)
+- 🎃 My effort in learning new algorithms : [leetcode](https://leetcode.com/micheleciciolla/)
