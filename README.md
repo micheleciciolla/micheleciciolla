@@ -10,4 +10,4 @@
 
 - 🎃 My effort in learning new algorithms : [leetcode](https://leetcode.com/micheleciciolla/)
 
-![Visitor Count](https://profile-counter.glitch.me/{micheleciciolla}/count.svg) 
+# ![Visitor Count](https://profile-counter.glitch.me/{micheleciciolla}/count.svg) 
