@@ -9,3 +9,5 @@
 - 📫 How to reach me                      : [my website](https://micheleciciolla.github.io/)
 
 - 🎃 My effort in learning new algorithms : [leetcode](https://leetcode.com/micheleciciolla/)
+
+![Visitor Count](https://profile-counter.glitch.me/{micheleciciolla}/count.svg) 
