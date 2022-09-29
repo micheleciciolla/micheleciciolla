@@ -1,13 +1,14 @@
-- 📕 University degree : Master of Science in [Artificial Intelligence and Robotics](https://corsidilaurea.uniroma1.it/en/corso/2021/30431/home) 🇮🇹
+- 📕 University degree : &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Master of Science in [Artificial Intelligence and Robotics](https://corsidilaurea.uniroma1.it/en/corso/2021/30431/home) 🇮🇹
  
-- 💼 Current job                          : R&D Software Engineer at [Leica Geosystems](https://leica-geosystems.com/) 🇨🇭
+- 💼 Current job : &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+R&D Software Engineer at [Leica Geosystems](https://leica-geosystems.com/) 🇨🇭
  
-- ✏️ Currently studying                   : C++
+- ✏️ Currently studying :       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;        C++
 
-- 👔 Interested working in                : R&D, Mobile Robotics, Artificial intelligence, Space/Defence
+- 👔 Interested working in :       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;            R&D, Mobile Robotics, Artificial intelligence, Space/Defence
 
-- 📫 How to reach me                      : [my website](https://micheleciciolla.github.io/)
+- 📫 How to reach me :                     &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [my website](https://micheleciciolla.github.io/)
 
-- 🎃 My effort in learning new algorithms : [leetcode](https://leetcode.com/micheleciciolla/)
+- 🎃 My effort in learning new algorithms : &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  [leetcode](https://leetcode.com/micheleciciolla/)
 
-- 👋 Welcome in the family                : ![](https://komarev.com/ghpvc/?username=your-github-username&color=yellow&style=flat)
+- 👋 Welcome in the family :                 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    ![](https://komarev.com/ghpvc/?username=your-github-username&color=yellow&style=flat)
