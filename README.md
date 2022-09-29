@@ -1,4 +1,4 @@
-- 📕 University degree : Master of Science in [Artificial Intelligence and Robotics Engineering at Università La Sapienza, Roma](https://corsidilaurea.uniroma1.it/en/corso/2021/30431/home) 🇮🇹
+- 📕 University degree : Master of Science in [Artificial Intelligence and Robotics](https://corsidilaurea.uniroma1.it/en/corso/2021/30431/home) 🇮🇹
  
 - 💼 Current job                          : R&D Software Engineer at [Leica Geosystems](https://leica-geosystems.com/) 🇨🇭
  
