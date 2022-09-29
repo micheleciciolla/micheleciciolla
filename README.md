@@ -10,4 +10,4 @@
 
 - 🎃 My effort in learning new algorithms : [leetcode](https://leetcode.com/micheleciciolla/)
 
-- 👋 Wellcome in the family               : ![](https://komarev.com/ghpvc/?username=your-github-username&color=yellow&style=flat)
+- 👋 Welcome in the family                : ![](https://komarev.com/ghpvc/?username=your-github-username&color=yellow&style=flat)
