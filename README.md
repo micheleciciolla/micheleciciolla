@@ -1,7 +1,7 @@
 - 📕 University degree : &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Master of Science in [Artificial Intelligence and Robotics](https://corsidilaurea.uniroma1.it/en/corso/2021/30431/home) 🇮🇹
  
 - 💼 Current job : &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-R&D Software Engineer at [Leica Geosystems](https://leica-geosystems.com/) 🇨🇭
+R&D Software Engineer in Machine Guidance at [Leica Geosystems](https://leica-geosystems.com/) 🇨🇭
  
 - ✏️ Currently studying :       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;        C++
 
@@ -11,4 +11,4 @@ R&D Software Engineer at [Leica Geosystems](https://leica-geosystems.com/) 🇨�
 
 - 🎃 My effort in learning new algorithms : &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  [leetcode](https://leetcode.com/micheleciciolla/)
 
-- 👋 Welcome in the family :                 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    ![](https://komarev.com/ghpvc/?username=your-github-username&color=yellow&style=flat)
+- 👋 Welcome to the family :                 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    ![](https://komarev.com/ghpvc/?username=your-github-username&color=yellow&style=flat)
